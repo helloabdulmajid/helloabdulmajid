@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React Js**
 
-- 📫 How to reach me **helloabdulmajid@gmail.com**
+- 📫 How to reach me [email](mailto:helloabdulmajid@gmail.com) :)
 
 - ⚡ Fun fact **I think I am funny**
 
