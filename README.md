@@ -25,8 +25,7 @@
 
 [![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=helloabdulmajid&&theme=xcode)](https://github.com/helloabdulmajid)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=helloabdulmajid&show_icons=true&locale=en&layout=compact" alt="helloabdulmajid" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=helloabdulmajid&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="abdulmajid" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=helloabdulmajid&show_icons=true&locale=en" alt="helloabdulmajid" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=helloabdulmajid&" alt="helloabdulmajid" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=helloabdulmajid&show_icons=true&locale=en&theme=tokyonight" alt="abdulmajid" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=helloabdulmajid&theme=tokyonight" alt="helloabdulmajid" /></p>
