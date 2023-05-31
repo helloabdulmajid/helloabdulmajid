@@ -7,7 +7,7 @@
 
 - 💼 I’m currently working at **Xigmapro Software**
 
-- 🌱 I’m currently learning **React Js & Laravel **
+- 🌱 I’m currently learning **Java & Data Structure **
 
 - 📫 How to reach me [email](mailto:helloabdulmajid@gmail.com) :)
 
