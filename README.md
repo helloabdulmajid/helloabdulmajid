@@ -5,9 +5,9 @@
 
 **About me**
 
-- 💼 I’m currently working at **Xigmapro Software Pvt. Ltd.**
+- 💼 I’m currently working at **G4GAME.IN**
 
-- 🌱 I’m currently learning **Java & SpringBoot Framework **
+- 🌱 I’m currently working with **Java & SpringBoot Framework **
 
 - 📫 How to reach me [email](mailto:helloabdulmajid@gmail.com) :)
 
