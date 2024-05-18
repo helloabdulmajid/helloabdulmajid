@@ -7,7 +7,7 @@
 
 - 💼 I’m currently working at **G4GAME.IN**
 
-- 🌱 I’m currently working with **Java & SpringBoot Framework **
+- 🌱 I’m currently working as Backend Developer 
 
 - 📫 How to reach me [email](mailto:helloabdulmajid@gmail.com) :)
 
