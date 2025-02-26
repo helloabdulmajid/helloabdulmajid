@@ -5,9 +5,7 @@
 
 **About me**
 
-- 💼 I’m currently working at **G4GAME.IN**
-
-- 🌱 I’m currently working as Backend Developer 
+- 🌱 i am currently looking for an opportunity 
 
 - 📫 How to reach me [email](mailto:helloabdulmajid@gmail.com) :)
 
