@@ -1,6 +1,6 @@
 # Hi 👋, I'm Abdul Majid
 
-### Passionate Full-Stack Developer from India 🇮🇳
+### Passionate Java Backend Developer from India 🇮🇳
 
 ---
 
